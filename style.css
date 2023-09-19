@@ -1,0 +1,18 @@
+
+*{
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 4px;
+
+}
+
+body{
+    background-image:url(//lwfiles.mycourse.app/62a6cd5e1e9e2fbf212d608d-public/b271da3401c9bf777bc501056294f1c1.png);
+    height:125vh;
+    background size:cover;
+    background position:center;
+}
+h1{
+    border-height:5px;
+    border-width: 15px;
+}
